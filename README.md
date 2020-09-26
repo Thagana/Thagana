@@ -1,5 +1,7 @@
 ### Hi there 👋 my name Samuel Mothwa
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <!--
 **Thagana/Thagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
