@@ -1,10 +1,10 @@
 <h3 align="center">Hi there 👋 I am Samuel Mothwa</h3>
 
 <p align="center">
-  <a href="https://thagana.github.io/portfolio">
-    ![](https://komarev.com/ghpvc/?username=Thagana)
-  </a>
+  <img src="https://media.giphy.com/media/2XskdWOosyAWPGTMv8A/giphy.gif" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=Thagana)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-mothwa-626b22141/">
