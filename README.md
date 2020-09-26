@@ -1,18 +1,22 @@
-### Hi there 👋 my name Samuel Mothwa
+<h3 align="center">Hi there 👋 I am Samuel Mothwa</h3>
 
 ![](https://komarev.com/ghpvc/?username=Thagana)
 
-<!--
-**Thagana/Thagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://hollowman6.github.io/Linkedin">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Hollow%20Man-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://hollowman6.github.io/Linkedin" />
+  </a>
+  <a href="https://github.com/HollowMan6?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/HollowMan6?style=social" />
+  </a>
+  <a href="https://hollowman6.github.io/fund.html">
+    <img alt="Open Source Love" src="https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white&link=https://hollowman6.github.io/fund.html" />
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=HollowM186">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/HollowM186?style=social" />
+  </a>
+  <a href="https://gitlab.com/HollowMan6">
+    <img alt="Gitlab" src="https://img.shields.io/badge/-Hollow%20Man-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/HollowMan6" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
