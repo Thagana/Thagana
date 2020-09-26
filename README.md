@@ -1,6 +1,8 @@
 <h3 align="center">Hi there 👋 I am Samuel Mothwa</h3>
 
-![](https://komarev.com/ghpvc/?username=Thagana)
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=Thagana)
+</p>
 
 <p align="center">
   <a href="https://hollowman6.github.io/Linkedin">
