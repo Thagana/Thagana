@@ -20,4 +20,21 @@
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/Thagana?style=social" />
   </a>
 </p>
+### Apps in React Native
+
+#### Ultimate News
+
+Ultimate News is a React Native (bootstraped with expo) application. It loops through a list of news headline article base on the South African content. It uses the [news.org](news.org) API data
+
+<p align="center">
+		<img src="./assets/ultimate_news_1.jpeg" width="300" height="680"/>  
+  	<img src="./assets/ultimate_news_2.jpeg" width="300" height="680" />
+    <img src="./assets/ultimate_news_3.jpeg" width="300" height="680" />
+</p>
+
+### Download
+
+<a href="https://play.google.com/store/apps/details?id=com.leumasco.ultimatenews"><img src="./assets/google-play-badge.png" width="200"/></a>
+
+
 
