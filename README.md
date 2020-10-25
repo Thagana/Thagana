@@ -20,6 +20,7 @@
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/Thagana?style=social" />
   </a>
 </p>
+
 ### Apps in React Native
 
 #### Ultimate News
