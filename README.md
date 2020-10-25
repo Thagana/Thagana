@@ -27,16 +27,41 @@
 Ultimate News is a React Native (bootstraped with expo) application. It loops through a list of news headline article base on the South African content. It uses the [news.org](news.org) API data
 
 <p align="center">
-		<img src="./assets/ultimate_news_1.jpeg" width="300" height="680"/>  
-  	<img src="./assets/ultimate_news_2.jpeg" width="300" height="680" />
-    <img src="./assets/ultimate_news_3.jpeg" width="300" height="680" />
+		<img src="./assets/ultimate_news_1.jpeg" width="250" height="580"/>  
+  	<img src="./assets/ultimate_news_2.jpeg" width="250" height="580" />
+    <img src="./assets/ultimate_news_3.jpeg" width="250" height="580" />
 </p>
+
 
 ### Download
 
 <a href="https://play.google.com/store/apps/details?id=com.leumasco.ultimatenews"><img src="./assets/google-play-badge.png" width="200"/></a>
 
+#### Couch Buddies
 
+<p align="center">
+   <img src="./assets/Couch/image_1.jpeg" width="250" height="580"/> 
+   <img src="./assets/Couch/image_2.jpeg" width="250" height="580"/> 
+   <img src="./assets/Couch/image_3.jpeg" width="250" height="580"/> 
+</p>
+
+
+
+#### Download
+
+<a href="https://play.google.com/store/apps/details?id=com.couch"><img src="./assets/google-play-badge.png" width="200"/></a>
+
+#### The Expensor
+
+The Expensor is Transactions visialization Application that uses the Device SMS.The application access the SMS and takes transactions SMS specific 
+
+<p align="center">
+   <img src="./assets/TheExpensor/image_1.jpeg" width="250" height="580"/> 
+   <img src="./assets/TheExpensor/image_2.jpeg" width="250" height="580"/> 
+   <img src="./assets/TheExpensor/image_3.jpeg" width="250" height="580"/> 
+</p>
+
+</p>
 
 ### YouTube Downloader
 
