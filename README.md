@@ -64,6 +64,8 @@ Add TODO cards, in a flash card format
    <img src="./assets/BreezeFlash/image_1.jpeg" width="250" height="580"/> 
 </p>
 
+<a href="https://play.google.com/store/apps/details?id=com.breezeflash"><img src="./assets/google-play-badge.png" width="200"/></a>
+
 #### The Expensor
 
 The Expensor is Transactions visialization Application that uses the Device SMS.The application access the SMS and takes transactions SMS specific 
