@@ -40,6 +40,8 @@ Ultimate News is a React Native (bootstraped with expo) application. It loops th
 
 #### Couch Buddies
 
+Movie recommendations application. You can search for movie and view the top picks and the most trending movies currently
+
 <p align="center">
    <img src="./assets/Couch/image_1.jpeg" width="250" height="580"/> 
    <img src="./assets/Couch/image_2.jpeg" width="250" height="580"/> 
@@ -51,6 +53,16 @@ Ultimate News is a React Native (bootstraped with expo) application. It loops th
 #### Download
 
 <a href="https://play.google.com/store/apps/details?id=com.couch"><img src="./assets/google-play-badge.png" width="200"/></a>
+
+#### Breeze Flash
+
+Add TODO cards, in a flash card format
+
+<p align="center">
+   <img src="./assets/BreezeFlash/image_3.jpeg" width="250" height="580"/> 
+   <img src="./assets/BreezeFlash/image_2.jpeg" width="250" height="580"/> 
+   <img src="./assets/BreezeFlash/image_1.jpeg" width="250" height="580"/> 
+</p>
 
 #### The Expensor
 
