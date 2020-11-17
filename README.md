@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://thagana.github.io/portfolio/">
-    <img src="https://komarev.com/ghpvc/?username=Thagana&style=flat-square" alt="Hollow Man" />
+    <img src="https://komarev.com/ghpvc/?username=Thagana&style=flat-square" alt="Thagana" />
   </a>
 </p>
 <p align="center">
@@ -16,7 +16,7 @@
   <a href="https://github.com/Thagana?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/Thagana?style=social" />
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=samuel_mothwa">
+  <a href="https://twitter.com/intent/followers?screen_name=samuel_mothwa">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/Thagana?style=social" />
   </a>
 </p>
