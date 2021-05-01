@@ -21,6 +21,13 @@
   </a>
 </p>
 
+### My Github Status  🚀
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thagana&show_icons=true&theme=dracula" alt="Jeziel's Github Status" />
+</p>
+
+
 ### Apps in React Native
 
 #### Ultimate News
