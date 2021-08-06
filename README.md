@@ -38,6 +38,30 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thagana&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800" />
 </p>
+### Web Apps
+#### [Sabaweli Education](https://sabaweli.xyz)
+Sabaweli Education is a platform for students to laverage thier studies and keep a constince record. Some of the features are listed below
+**Features**
+- Video/Audio to text/notes
+- Study coach
+- Question Answer helper
+
+##### Video/Audio
+
+Upload a lecture video or audio the app with transcribe it and return back the notes/text
+
+##### Study Coach
+Record your study activity and see the process per topic/subject to have a consistnce pattern or growth
+
+##### Question and Answer helper
+upload or enter a text/phassage and ge point based on the question you want to extract use the points and study key features for quick reference
+
+![Screenshot 2021-08-06 at 20 20 56](https://user-images.githubusercontent.com/31548358/128555057-8dcbf8b5-cb52-4f50-87bc-92c5826aa7d1.png)
+
+![Screenshot 2021-08-06 at 21 29 41](https://user-images.githubusercontent.com/31548358/128562190-b3d62fff-a3aa-4433-a202-500b09941eda.png)
+
+![Screenshot 2021-08-06 at 21 30 19](https://user-images.githubusercontent.com/31548358/128562256-0ffec046-8daa-481b-b32d-9bef8c195d88.png)
+
 
 ### Apps in React Native
 
