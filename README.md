@@ -121,12 +121,4 @@ The Expensor is Transactions visialization Application that uses the Device SMS.
 
 </p>
 
-### YouTube Downloader
-
-A youtube downloader (electron) desktop application , which you download youtube video and youtube playlist
-
-<p align="center">
-  <img src="./assets/screenshot1.png" />
-    <img src="./assets/screenshot2.png" />
-</p>
 
