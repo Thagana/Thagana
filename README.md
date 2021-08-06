@@ -71,9 +71,9 @@ upload or enter a text/phassage and ge point based on the question you want to e
 Ultimate News is a React Native (bootstraped with expo) application. It loops through a list of news headline article base on the South African content. It uses the [news.org](news.org) API data
 
 <p align="center">
-		<img src="./assets/ultimate_news_1.jpeg" width="250" height="580"/>  
-  	<img src="./assets/ultimate_news_2.jpeg" width="250" height="580" />
-    <img src="./assets/ultimate_news_3.jpeg" width="250" height="580" />
+	<img src="https://user-images.githubusercontent.com/31548358/128567641-ab31a79a-6ea1-45ae-a9e5-7bc594041398.png" width="250" height="580"/>  
+  	<img src="https://user-images.githubusercontent.com/31548358/128567652-d8c0ac6c-dba2-4c78-a0ac-1e26c95a7d5e.png" width="250" height="580" />
+    	<img src="https://user-images.githubusercontent.com/31548358/128567654-d9d264ed-e3d7-4139-9132-d808c893641b.png" width="250" height="580" />
 </p>
 
 
