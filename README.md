@@ -66,6 +66,16 @@ upload or enter a text/phassage and ge point based on the question you want to e
 
 ### Apps in React Native
 
+#### Kulture
+Kulture is an application written in React Native that allows users to upload images and follow aother users and also message using the global group chat
+
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/31548358/130063035-da96fdce-d26d-4769-8417-585b9c2bc440.jpeg" width="250" height="580"/>  
+  	<img src="https://user-images.githubusercontent.com/31548358/130063165-b186cbc0-d3e5-4e24-b575-4c2b06128f7e.jpeg" width="250" height="580" />
+    	<img src="https://user-images.githubusercontent.com/31548358/130063218-9a79e21b-8dc2-4a8d-99f8-6424fb49f221.jpeg" width="250" height="580" />
+    	<img src="https://user-images.githubusercontent.com/31548358/130063325-093c188f-4696-4884-a6f6-36faedd2783b.jpeg" width="250" height="580" />
+</p>
+
 #### Ultimate News
 
 Ultimate News is a React Native (bootstraped with expo) application. It loops through a list of news headline article base on the South African content. It uses the [news.org](news.org) API data
