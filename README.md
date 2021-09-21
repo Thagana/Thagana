@@ -70,10 +70,17 @@ upload or enter a text/phassage and ge point based on the question you want to e
 Kulture is an application written in React Native that allows users to upload images and follow aother users and also message using the global group chat
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/31548358/130063035-da96fdce-d26d-4769-8417-585b9c2bc440.jpeg" width="250" height="580"/>  
+	<img src="https://user-images.githubusercontent.com/31548358/130063035-da96fdce-d26d-4769-8417-585b9c2bc440.jpeg" width="250" height="580" />  
   	<img src="https://user-images.githubusercontent.com/31548358/130063165-b186cbc0-d3e5-4e24-b575-4c2b06128f7e.jpeg" width="250" height="580" />
     	<img src="https://user-images.githubusercontent.com/31548358/130063218-9a79e21b-8dc2-4a8d-99f8-6424fb49f221.jpeg" width="250" height="580" />
     	<img src="https://user-images.githubusercontent.com/31548358/130063325-093c188f-4696-4884-a6f6-36faedd2783b.jpeg" width="250" height="580" />
+	<img src="https://user-images.githubusercontent.com/31548358/134232464-0a862492-90d6-4ecc-b1de-3b906b14da2f.jpeg" width="250" height="580" />
+	<img src="https://user-images.githubusercontent.com/31548358/134233042-d01f1c36-102f-45a0-a080-4d46914a8a09.jpeg" width="250" height="580" />
+	<img src="https://user-images.githubusercontent.com/31548358/134233123-31bb1cc5-b36b-421d-8564-57dc0fea8e62.jpeg" width="250" height="580" />
+	<img src="https://user-images.githubusercontent.com/31548358/134233415-76a07d2a-8486-468a-86e7-629646a721f9.jpeg" width="250" height="580" />
+	<img src="https://user-images.githubusercontent.com/31548358/134233505-0f5027b7-d4a6-4e74-b345-0dfcb64a0f82.jpeg" width="250" height="580" />
+
+	
 </p>
 
 #### Ultimate News
