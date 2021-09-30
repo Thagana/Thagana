@@ -79,9 +79,27 @@ Kulture is an application written in React Native that allows users to upload im
 	<img src="https://user-images.githubusercontent.com/31548358/134233123-31bb1cc5-b36b-421d-8564-57dc0fea8e62.jpeg" width="250" height="580" />
 	<img src="https://user-images.githubusercontent.com/31548358/134233415-76a07d2a-8486-468a-86e7-629646a721f9.jpeg" width="250" height="580" />
 	<img src="https://user-images.githubusercontent.com/31548358/134233505-0f5027b7-d4a6-4e74-b345-0dfcb64a0f82.jpeg" width="250" height="580" />
-
-	
 </p>
+
+
+### Download
+
+<a href="https://play.google.com/store/apps/details?id=com.northernbreeze.kulture"><img src="./assets/google-play-badge.png" width="200"/></a>
+
+
+#### Kleva Shoppa
+Kleva shoppa is product price comaprison application where you can see store products with price. See porpular shops in South Africa
+
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/31548358/135502889-4acf112e-495a-4172-ac08-b1733f17474a.jpeg" width="250" height="580" />
+	<img src="https://user-images.githubusercontent.com/31548358/135502958-1ee16f0f-f22f-4691-8a52-607aee702101.jpeg" width="250" height="580" />
+</p>
+
+
+### Download
+
+<a href="https://play.google.com/store/apps/details?id=com.northernbreeze.klevashoppa"><img src="./assets/google-play-badge.png" width="200"/></a>
+
 
 #### Ultimate News
 
