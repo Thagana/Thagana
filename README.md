@@ -25,6 +25,7 @@
  <h2>My Github Status  🚀 </h2>
 </p>
 
+Also check [Northen Breeze](https://github.com/Northern-Breeze)
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thagana&show_icons=true&theme=dracula" alt="Jeziel's Github Status" />
