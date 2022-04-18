@@ -104,7 +104,7 @@ Kleva shoppa is product price comaprison application where you can see store pro
 
 #### Ultimate News
 
-Ultimate News is a React Native (bootstraped with expo) application. It loops through a list of news headline article base on the South African content. It uses the [news.org](news.org) API data
+The Ultimate News is a news application platform for headlines all around the world
 
 #### Website
 [The Ultimate News](https://www.theultimatenews.xyz/)
