@@ -21,23 +21,6 @@
   </a>
 </p>
 
-<p align="center">
- <h2>My Github Status  🚀 </h2>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thagana&show_icons=true&theme=dracula" alt="Jeziel's Github Status" />
-</p>
-
-
-<p align="center">
-  <h2>Most use languages ⚖️ </h2>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thagana&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800" />
-</p>
-
 ### Web Apps
 #### [Sabaweli Education](https://sabaweli.xyz)
 Sabaweli Education is a platform for students to laverage thier studies and keep a constince record. Some of the features are listed below
